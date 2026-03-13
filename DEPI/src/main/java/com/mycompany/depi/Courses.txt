@@ -1,6 +1,0 @@
-DB112
-Database Management System
-OOP111
-Opject oriented programming
-BS110
-Physics
